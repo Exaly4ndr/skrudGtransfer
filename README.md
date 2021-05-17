@@ -1,2 +1,2 @@
-# skrudGtransfer.gthub.io
+# skrudGtransfer.github.io
 site for coins
